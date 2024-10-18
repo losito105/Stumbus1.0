@@ -1,13 +1,18 @@
 ﻿namespace Stumbus1._0;
 
+public enum IV
+{
+    PHY_ATK = 0,
+    PHY_DEF = 1,
+    ELM_ATK = 2,
+    ELM_DEF = 3
+}
+
 public class CharacterDefinitions
 {
-    public enum IV
+    public string IVToString(IV iv)
     {
-        PHY_ATK = 0,
-        PHY_DEF = 1,
-        ELM_ATK = 2,
-        ELM_DEF = 3
+        return iv.ToString().Replace('_', ' ');
     }
 
     // the values at index n in each of these lists correspond to the same character n
@@ -93,7 +98,10 @@ public class CharacterDefinitions
         if (_names.Count == 0) return null;
 
         Random random = new Random();
-        int idx = random.Next(0, _names.Count);
+        //int idx = random.Next(0, _names.Count);
+        int idx = 0;
+
+        // TODO: remove from data from lists so there are no duplicate characters in-game
 
         return new CharacterInfo
         {
