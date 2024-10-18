@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stumbus1.0", "Stumbus1.0.csproj", "{BE21B8C6-017C-45A1-ABCF-53A7BAECB24B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE21B8C6-017C-45A1-ABCF-53A7BAECB24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE21B8C6-017C-45A1-ABCF-53A7BAECB24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE21B8C6-017C-45A1-ABCF-53A7BAECB24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE21B8C6-017C-45A1-ABCF-53A7BAECB24B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F067CFE-4F14-4E49-9D1B-B0C3300F33DF}
+	EndGlobalSection
+EndGlobal

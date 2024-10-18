@@ -1,0 +1,15 @@
+C:\Users\Tim\Desktop\Stumbus1.0\bin\Debug\net7.0\Stumbus1.0.exe
+C:\Users\Tim\Desktop\Stumbus1.0\bin\Debug\net7.0\Stumbus1.0.deps.json
+C:\Users\Tim\Desktop\Stumbus1.0\bin\Debug\net7.0\Stumbus1.0.runtimeconfig.json
+C:\Users\Tim\Desktop\Stumbus1.0\bin\Debug\net7.0\Stumbus1.0.dll
+C:\Users\Tim\Desktop\Stumbus1.0\bin\Debug\net7.0\Stumbus1.0.pdb
+C:\Users\Tim\Desktop\Stumbus1.0\obj\Debug\net7.0\Stumbus1.0.csproj.AssemblyReference.cache
+C:\Users\Tim\Desktop\Stumbus1.0\obj\Debug\net7.0\Stumbus1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tim\Desktop\Stumbus1.0\obj\Debug\net7.0\Stumbus1.0.AssemblyInfoInputs.cache
+C:\Users\Tim\Desktop\Stumbus1.0\obj\Debug\net7.0\Stumbus1.0.AssemblyInfo.cs
+C:\Users\Tim\Desktop\Stumbus1.0\obj\Debug\net7.0\Stumbus1.0.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\Stumbus1.0\obj\Debug\net7.0\Stumbus1.0.dll
+C:\Users\Tim\Desktop\Stumbus1.0\obj\Debug\net7.0\refint\Stumbus1.0.dll
+C:\Users\Tim\Desktop\Stumbus1.0\obj\Debug\net7.0\Stumbus1.0.pdb
+C:\Users\Tim\Desktop\Stumbus1.0\obj\Debug\net7.0\Stumbus1.0.genruntimeconfig.cache
+C:\Users\Tim\Desktop\Stumbus1.0\obj\Debug\net7.0\ref\Stumbus1.0.dll
