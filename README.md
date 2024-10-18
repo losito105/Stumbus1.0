@@ -6,3 +6,6 @@
   ____) |  | |  | |__| | |  | | |_) | |__| |____) || || |_| |
  |_____/   |_|   \____/|_|  |_|____/ \____/|_____/ |_(_)___/ 
                                                              
+```
+
+Running the game: Run `Stubmus1.0\bin\Debug\net7.0\Stumbus1.0.exe` on a Windows machine.
